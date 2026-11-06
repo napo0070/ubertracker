@@ -4,8 +4,8 @@ package tracker_test
 import (
 	"testing"
 
-	"github.com/superselle/ubertracker/tests/testutil"
-	"github.com/superselle/ubertracker/tracker"
+	"github.com/napo0070/ubertracker/tests/testutil"
+	"github.com/napo0070/ubertracker/tracker"
 )
 
 // ══════════════════════════════════════════════════════════════

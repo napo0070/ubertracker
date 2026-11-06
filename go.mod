@@ -1,4 +1,4 @@
-module github.com/superselle/ubertracker
+module github.com/napo0070/ubertracker
 
 go 1.24.1
 
